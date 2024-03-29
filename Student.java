@@ -22,9 +22,9 @@ public class Student {
 
     public static void main(String[] args) {
         Student s = new Student();
-        s.name = "Ranjita";
+        s.name = "Sanjeev";
         s.displayName();
-        s.displayAge("15-02-2005");
+        s.displayAge("30-08-2004");
         // s.DisplayMarks();
         // s.DisplayMarkses();
     }
