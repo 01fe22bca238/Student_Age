@@ -27,5 +27,6 @@ public class Student extends StudentDetails {
         s.displayAge("30-08-2004");
         s.DisplayMarks();
         s.DisplayMarkses();
+
     }
 }
